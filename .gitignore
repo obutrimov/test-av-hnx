@@ -216,3 +216,17 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Docker
+Dockerfile
+.dockerignore
+docker-compose.yml
+
+# VSCode
+.vscode/
+
+# Debug files
+debug/
+
+# Results
+# result.csv
